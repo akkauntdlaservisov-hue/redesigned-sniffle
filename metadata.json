@@ -1,0 +1,8 @@
+{
+  "name": "WebCreateStudio",
+  "description": "A professional web development business platform featuring user authentication, project brainstorming, and direct contact options.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
